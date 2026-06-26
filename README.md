@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 <a id="readme-top"></a>
 
 <!-- SHIELDS -->
@@ -150,3 +151,10 @@ Distributed under the MIT License. See `LICENSE` for more information.
 [Ouch-shield]: https://img.shields.io/badge/Ouch!-tool-blue?label=Ouch!
 [Ouch-url]: https://github.com/ouch-org/ouch
 [time-screenshot]: https://cloud-l88kldf50-hack-club-bot.vercel.app/0image.png
+=======
+# gobblins-godot
+Gobblins is a simple platform parkour game with two levels. It is my first Godot project. No AI was used in this project
+For installation, just download the .zip or the .tar.gz files in the releases. The character sprite isn't very polished, but will be cleaned up in future updates.
+
+![Alt text="Image of gobblins"](https://github.com/WardenOfTheCove/gobblins-godot/blob/main/20260625_230202.png)
+>>>>>>> 6accc68ff3634d0054d7b81cbff0b1bf51da6ec4
